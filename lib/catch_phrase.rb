@@ -1,4 +1,4 @@
 def catch_phrase
-  phrase = "Dog butt"
+  phrase = "It's-a me, Mario!"
   puts phrase
 end
